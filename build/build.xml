@@ -10,11 +10,11 @@
     <!-- Deployment targets                         -->
     <!-- ========================================== -->
 	
-	<taskdef resource="com/salesforce/antlib.xml" uri="antlib:com.salesforce">
+	<!--<taskdef resource="com/salesforce/antlib.xml" uri="antlib:com.salesforce">
 	        <classpath>
 	            <pathelement location="../../lib/ant-salesforce.jar" />	
 	        </classpath>
-	</taskdef>
+	</taskdef> -->
 	
     <target name="deploy_metadata">
 
